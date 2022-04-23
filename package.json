@@ -11,5 +11,8 @@
 		"type": "git",
 		"url": "https://idontknow/todo.git"
 	},
-	"author": "Nathan Farmer"
+	"author": "Nathan Farmer",
+	"devDependencies": {
+		"gh-pages": "^3.2.3"
+	}
 }
